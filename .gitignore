@@ -145,3 +145,5 @@ vite.config.ts.timestamp-*
 # hardhat
 artifacts/
 cache/
+
+.DS_Store
